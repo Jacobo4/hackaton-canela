@@ -20,12 +20,12 @@ def get_db():
 phone=APIRouter()
 
 @phone.post("/phones/", response_model=schema.Phone)
-def create_phone(phone:schema.Phone,db:Session=Depends(get_db)):
+async def create_phone(phone:schema.Phone,db:Session=Depends(get_db)):
     """Return """
     return phone_internal.create_phone(db=db,phone=phone)
 
 @phone.get("/phones/")
-def get_phones(skip:int=0, limit:int=100,db:Session=Depends(get_db)):
+async def get_phones(skip:int=0, limit:int=100,db:Session=Depends(get_db)):
     """Return """
     return phone_internal.get_phones(db, skip, limit)
 

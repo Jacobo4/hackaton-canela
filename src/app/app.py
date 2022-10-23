@@ -11,3 +11,7 @@ app.include_router(phone)
 
 #Create tables
 models.Base.metadata.create_all(bind=engine)
+
+@app.get("/")
+async def home():
+    return("The server is running")
