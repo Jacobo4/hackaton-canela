@@ -1,4 +1,3 @@
-//template functional component
 import React, {useCallback, useEffect, useRef, useState} from "react";
 import Webcam from "react-webcam";
 

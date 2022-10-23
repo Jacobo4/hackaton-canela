@@ -1,4 +1,3 @@
-//template functional component
 import React from "react";
 
 const Settings = () => {

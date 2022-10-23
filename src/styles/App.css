@@ -28,6 +28,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body{
+    overflow-x: hidden;
+}
+
 .popup-content {
   @apply rounded-md grid gap-5 shadow-md bg-white;
     width: 100% !important;
