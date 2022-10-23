@@ -1,10 +1,11 @@
-import React, {useState} from "react";
+import React, {useEffect, useState} from "react";
 import {AiFillAlert} from 'react-icons/ai';
 import Popup from "reactjs-popup";
 import {useNavigate} from "react-router-dom";
 
 const Home = () => {
     const [openModal, setOpenModal] = useState(false);
+    const [center, setCenter] = useState(null);
     const closeModal = () => setOpenModal(false);
     const navigate = useNavigate();
 
@@ -12,10 +13,19 @@ const Home = () => {
         navigate('/danger');
     };
 
+     useEffect(() => {
+
+
+        navigator.geolocation.getCurrentPosition(function (position) {
+            setCenter({lat: position.coords.latitude, lng: position.coords.longitude});
+        });
+
+    }, []);
+
     return (
         <div className={"grid w-full h-full place-content-center"}>
             <div onClick={() => setOpenModal(o => !o)} className={"grid place-content-center  w-screen h-screen z-10 cursor-pointer"}>
-                <AiFillAlert className={"grid text-red-400 place-center text-9xl"}/>
+                <AiFillAlert className={"grid text-red-600 place-center text-9xl"}/>
             </div>
 
             <Popup open={openModal} closeOnDocumentClick onClose={closeModal}>
@@ -24,8 +34,9 @@ const Home = () => {
                         &times;
                     </a>
                     <div className={"grid gap-4 p-4 text-center"}>
-                        <h3>Are tou sure?</h3>
-                        <a className={"bg-red-500 text-white font-bold rounded px-4 py-2 border-0"} onClick={handleAlertBtn} href="sms://+12342337227?body=Hello%asd">YES!!!!</a>
+                        <h3>Are you sure?</h3>
+                        {center && <a className={"bg-red-500 text-white font-bold rounded px-4 py-2 border-0"} onClick={handleAlertBtn}
+                           href={`sms://+12342337227?body=%f0%9f%9a%a8%f0%9f%9a%a8Help%21%21%20My%20location%20is%3a%20lat%3d%22${center.lat}%22lng%3d%22${center.lng}%22%f0%9f%9a%a8%f0%9f%9a%a8"`}>YES!!!! </a>}
                         {/*<button className={"bg-red-500 text-white font-bold rounded px-4 py-2 border-0"} onClick={handleAlertBtn}>YES!!!!</button>*/}
                     </div>
 
