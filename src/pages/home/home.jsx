@@ -2,6 +2,7 @@ import React, {useEffect, useState} from "react";
 import {AiFillAlert} from 'react-icons/ai';
 import Popup from "reactjs-popup";
 import {useNavigate} from "react-router-dom";
+import dangerImg from "./dangerImage.png";
 
 const Home = () => {
     const [openModal, setOpenModal] = useState(false);
@@ -25,7 +26,8 @@ const Home = () => {
     return (
         <div className={"grid w-full h-full place-content-center"}>
             <div onClick={() => setOpenModal(o => !o)} className={"grid place-content-center  w-screen h-screen z-10 cursor-pointer"}>
-                <AiFillAlert className={"grid text-red-600 place-center text-9xl"}/>
+                <img src={dangerImg} alt="Logo" />
+
             </div>
 
             <Popup open={openModal} closeOnDocumentClick onClose={closeModal}>
