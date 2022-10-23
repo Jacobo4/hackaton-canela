@@ -4,6 +4,8 @@ import data from './data.json';
 import Marker from "../../components/marker/marker.jsx";
 import Popup from 'reactjs-popup';
 
+
+
 const Map = () => {
 
     const [center, setCenter] = useState(null);

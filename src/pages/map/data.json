@@ -11,14 +11,15 @@
             "Tipo_agresion": [
                 "Amenaza O Intimidaci\u00f3n",
                 "Nan"
-            ]
+            ],
+            "Rango": 0
         }
     ],
     "Antioquia": [
         {
             "Latitud": 7.0000085,
             "Longitud": -75.5000086,
-            "Victima": "6403",
+            "Victima": "6404",
             "Fuente": [
                 " ",
                 " Justicia Y Paz, Vol,4. N.1 Pag. 14",
@@ -2134,14 +2135,15 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 10
         }
     ],
     "Arauca": [
         {
             "Latitud": 6.7940425,
             "Longitud": -70.49616220398214,
-            "Victima": "655",
+            "Victima": "656",
             "Fuente": [
                 " ",
                 " Justicia Y Paz, Vol,4. N.1 Pag. 14",
@@ -2543,7 +2545,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 1
         }
     ],
     "Archipielago De San Andres Providencia Y Santa Catalina": [
@@ -2556,7 +2559,8 @@
             ],
             "Tipo_agresion": [
                 "Nan"
-            ]
+            ],
+            "Rango": 0
         }
     ],
     "Atlantico": [
@@ -2776,7 +2780,8 @@
                 "Amenaza O Intimidaci\u00f3n",
                 "Nan",
                 "Tortura"
-            ]
+            ],
+            "Rango": 0
         }
     ],
     "Bogota": [
@@ -2793,7 +2798,8 @@
                 "Lesionados Civiles",
                 "Nan",
                 "Tortura"
-            ]
+            ],
+            "Rango": 0
         }
     ],
     "Bogota, D. C.": [
@@ -2969,14 +2975,31 @@
                 "Revista Noche Y Niebla No 33. Enero - Junio 2006. Pp. 92",
                 "Revista Noche Y Niebla No.38 P\u00e1g 214"
             ],
-            "Tipo_agresion": "No hay registro"
+            "Tipo_agresion": [
+                "N",
+                "o",
+                " ",
+                "h",
+                "a",
+                "y",
+                " ",
+                "r",
+                "e",
+                "g",
+                "i",
+                "s",
+                "t",
+                "r",
+                "o"
+            ],
+            "Rango": 0
         }
     ],
     "Bolivar": [
         {
             "Latitud": 33.7702263,
             "Longitud": -90.8519798,
-            "Victima": "1823",
+            "Victima": "1825",
             "Fuente": [
                 " ",
                 " Justicia Y Paz, Vol,4. N.1 Pag. 16",
@@ -3707,7 +3730,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 3
         }
     ],
     "Boyaca": [
@@ -3847,7 +3871,8 @@
                 "Lesionados Civiles",
                 "Nan",
                 "Tortura"
-            ]
+            ],
+            "Rango": 1
         }
     ],
     "Caldas": [
@@ -4229,7 +4254,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 1
         }
     ],
     "Caqueta": [
@@ -4434,7 +4460,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 1
         }
     ],
     "Casanare": [
@@ -4538,7 +4565,8 @@
                 "Lesionados Civiles",
                 "Nan",
                 "Tortura"
-            ]
+            ],
+            "Rango": 0
         }
     ],
     "Cauca": [
@@ -5090,14 +5118,15 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 2
         }
     ],
     "Cesar": [
         {
             "Latitud": 9.3333415,
             "Longitud": -73.5000086,
-            "Victima": "1413",
+            "Victima": "1415",
             "Fuente": [
                 " ",
                 " Justicia Y Paz, Vol,5. N.1 Pag. 16",
@@ -5806,14 +5835,15 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 2
         }
     ],
     "Choco": [
         {
             "Latitud": 6.0000085,
             "Longitud": -77.0000086,
-            "Victima": "872",
+            "Victima": "873",
             "Fuente": [
                 " ",
                 " Justicia Y Paz, Vol,6. N.4 Pag. 51",
@@ -6020,7 +6050,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 1
         }
     ],
     "Cordoba": [
@@ -6523,7 +6554,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 1
         }
     ],
     "Cundinamarca": [
@@ -6693,7 +6725,8 @@
                 "Amenaza O Intimidaci\u00f3n",
                 "Nan",
                 "Tortura"
-            ]
+            ],
+            "Rango": 1
         }
     ],
     "C\u00e9sar": [
@@ -6704,7 +6737,24 @@
             "Fuente": [
                 "Bolet\u00edn Justicia Y Paz Vol. 4 N\u00ba 2 Pp. 17"
             ],
-            "Tipo_agresion": "No hay registro"
+            "Tipo_agresion": [
+                "N",
+                "o",
+                " ",
+                "h",
+                "a",
+                "y",
+                " ",
+                "r",
+                "e",
+                "g",
+                "i",
+                "s",
+                "t",
+                "r",
+                "o"
+            ],
+            "Rango": 0
         }
     ],
     "Guainia": [
@@ -6718,7 +6768,8 @@
             ],
             "Tipo_agresion": [
                 "Nan"
-            ]
+            ],
+            "Rango": 0
         }
     ],
     "Guaviare": [
@@ -6804,7 +6855,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 0
         }
     ],
     "Huila": [
@@ -7169,7 +7221,8 @@
                 "Lesionados Civiles",
                 "Nan",
                 "Tortura"
-            ]
+            ],
+            "Rango": 1
         }
     ],
     "La Guajira": [
@@ -7301,7 +7354,8 @@
                 "Desplazamiento Forzado",
                 "Nan",
                 "Tortura"
-            ]
+            ],
+            "Rango": 1
         }
     ],
     "Magdalena": [
@@ -7848,7 +7902,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 4
         }
     ],
     "Meta": [
@@ -8288,7 +8343,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 2
         }
     ],
     "Nari\u00f1o": [
@@ -8487,7 +8543,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 2
         }
     ],
     "Norte De Santander": [
@@ -9405,7 +9462,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 3
         }
     ],
     "Putumayo": [
@@ -9540,7 +9598,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 2
         }
     ],
     "Quindio": [
@@ -9596,7 +9655,8 @@
                 "Amenaza O Intimidaci\u00f3n",
                 "Nan",
                 "Tortura"
-            ]
+            ],
+            "Rango": 0
         }
     ],
     "Risaralda": [
@@ -9874,7 +9934,8 @@
                 "Amenaza O Intimidaci\u00f3n",
                 "Nan",
                 "Tortura"
-            ]
+            ],
+            "Rango": 1
         }
     ],
     "San Andres": [
@@ -9886,7 +9947,24 @@
                 "Comit\u00e9 Permanente Por La Defensa De Los Derechos Humanos; Itinerario De La Represi\u00f3n Y La Violencia Institucionalizadas 1986, Pp. 109",
                 "Elaboraci\u00f3n Propia Del Cnmh. Informe La Palabra Y El Silencio. La Violencia Contra Periodistas En Colombia."
             ],
-            "Tipo_agresion": "No hay registro"
+            "Tipo_agresion": [
+                "N",
+                "o",
+                " ",
+                "h",
+                "a",
+                "y",
+                " ",
+                "r",
+                "e",
+                "g",
+                "i",
+                "s",
+                "t",
+                "r",
+                "o"
+            ],
+            "Rango": 0
         }
     ],
     "Santander": [
@@ -11026,14 +11104,15 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 3
         }
     ],
     "Sucre": [
         {
             "Latitud": -19.0477251,
             "Longitud": -65.2594306,
-            "Victima": "707",
+            "Victima": "708",
             "Fuente": [
                 " Justicia Y Paz, Vol,6. N.1 Pag. 103",
                 " Justicia Y Paz, Vol,6. N.1 Pag. 64",
@@ -11364,7 +11443,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 1
         }
     ],
     "Tolima": [
@@ -11846,7 +11926,8 @@
                 "Nan",
                 "Pillaje",
                 "Tortura"
-            ]
+            ],
+            "Rango": 2
         }
     ],
     "Valle Del Cauca": [
@@ -12489,7 +12570,8 @@
                 "Lesionados Civiles",
                 "Nan",
                 "Tortura"
-            ]
+            ],
+            "Rango": 2
         }
     ],
     "Vaupes": [
@@ -12506,7 +12588,8 @@
             ],
             "Tipo_agresion": [
                 "Nan"
-            ]
+            ],
+            "Rango": 0
         }
     ],
     "Vichada": [
@@ -12525,7 +12608,8 @@
             "Tipo_agresion": [
                 "Amenaza O Intimidaci\u00f3n",
                 "Nan"
-            ]
+            ],
+            "Rango": 0
         }
     ]
 }
