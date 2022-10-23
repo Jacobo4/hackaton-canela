@@ -47,7 +47,7 @@ const Marker = ({props}) => {
 
                     <div>
                         <button className="bg-green-500 rounded p-2 text-white">
-                            <a href={props.Link} value={"_blank"}>Estadísticas</a>
+                            <a href={props.Link} target={"_blank"}>Estadísticas</a>
                         </button>
                     </div>
 
