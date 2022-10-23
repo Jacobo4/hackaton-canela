@@ -42,44 +42,44 @@ const Danger = () => {
     }, [mediaRecorderRef, webcamRef, setCapturing]);
 
     const handleDownload = useCallback(() => {
-        if (recordedChunks.length) {
-            const blob = new Blob(recordedChunks, {
-                type: "video/webm"
-            });
-            var formdata = new FormData();
-            // formdata.append("file", new File([blob], "prruebas"));
-            formdata.append("file", new File([blob], "filename"), "teAmoJhon.mp4");
-
-
-            var requestOptions = {
-                method: 'POST',
-                body: formdata,
-                // headers: {
-                //     "Content-Type": "application/json"
-                // },
-                redirect: 'follow'
-            };
-
-            fetch("https://app-canela.herokuapp.com/save_media/", requestOptions)
-                .then(response => response.text())
-                .then(result => console.log(result))
-                .catch(error => console.log('error', error));
-        }
-
         // if (recordedChunks.length) {
         //     const blob = new Blob(recordedChunks, {
         //         type: "video/webm"
         //     });
-        //     const url = URL.createObjectURL(blob);
-        //     const a = document.createElement("a");
-        //     document.body.appendChild(a);
-        //     a.style = "display: none";
-        //     a.href = url;
-        //     a.download = "react-webcam-stream-capture.webm";
-        //     a.click();
-        //     window.URL.revokeObjectURL(url);
-        //     setRecordedChunks([]);
+        //     var formdata = new FormData();
+        //     // formdata.append("file", new File([blob], "prruebas"));
+        //     formdata.append("file", new File([blob], "filename"), "teAmoJhon.mp4");
+        //
+        //
+        //     var requestOptions = {
+        //         method: 'POST',
+        //         body: formdata,
+        //         // headers: {
+        //         //     "Content-Type": "application/json"
+        //         // },
+        //         redirect: 'follow'
+        //     };
+        //
+        //     fetch("https://app-canela.herokuapp.com/save_media/", requestOptions)
+        //         .then(response => response.text())
+        //         .then(result => console.log(result))
+        //         .catch(error => console.log('error', error));
         // }
+
+        if (recordedChunks.length) {
+            const blob = new Blob(recordedChunks, {
+                type: "video/webm"
+            });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            document.body.appendChild(a);
+            a.style = "display: none";
+            a.href = url;
+            a.download = "react-webcam-stream-capture.webm";
+            a.click();
+            window.URL.revokeObjectURL(url);
+            setRecordedChunks([]);
+        }
     }, [recordedChunks]);
 //webgook rules
     //Cachear
