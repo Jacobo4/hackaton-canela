@@ -52,10 +52,10 @@ const Danger = () => {
 
 
             var requestOptions = {
-                method: 'POST',
+                method: 'PATCH',
                 body: formdata,
                 headers: {
-                    "Content-Type": "application/json"
+                    "Content-Type": "multipart/form-data",
                 },
                 redirect: 'follow'
             };
