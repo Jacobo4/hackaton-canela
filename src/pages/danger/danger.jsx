@@ -64,20 +64,25 @@ const Danger = () => {
                 .then(response => response.text())
                 .then(result => console.log(result))
                 .catch(error => console.log('error', error));
-            // const url = URL.createObjectURL(blob);
-            // const a = document.createElement("a");
-            // document.body.appendChild(a);
-            // a.style = "display: none";
-            // a.href = url;
-            // a.download = "react-webcam-stream-capture.webm";
-            // a.click();
-            // window.URL.revokeObjectURL(url);
-            // setRecordedChunks([]);
         }
+
+        // if (recordedChunks.length) {
+        //     const blob = new Blob(recordedChunks, {
+        //         type: "video/webm"
+        //     });
+        //     const url = URL.createObjectURL(blob);
+        //     const a = document.createElement("a");
+        //     document.body.appendChild(a);
+        //     a.style = "display: none";
+        //     a.href = url;
+        //     a.download = "react-webcam-stream-capture.webm";
+        //     a.click();
+        //     window.URL.revokeObjectURL(url);
+        //     setRecordedChunks([]);
+        // }
     }, [recordedChunks]);
 //webgook rules
     //Cachear
-
     return (
         <div className={"grid w-full h-full place-content-center"}>
             <Webcam audio={true} ref={webcamRef}/>
@@ -86,15 +91,12 @@ const Danger = () => {
                 {/*<button className={"grid"}>Camara</button>*/}
                 {/*<button className={"grid"}>Microfono</button>*/}
                 {capturing ? (
-                    <button className={"grid bg-red-500 text-white font-bold rounded px-4 py-2 border-0 max-w-xs"}
-                            onClick={handleStopCaptureClick}>Stop Capture</button>
+                    <button className={"grid bg-red-500 text-white font-bold rounded px-4 py-2 border-0 max-w-xs"} onClick={handleStopCaptureClick}>Stop Capture</button>
                 ) : (
-                    <button className={"grid bg-green-500 text-white font-bold rounded px-4 py-2 border-0 max-w-xs"}
-                            onClick={handleStartCaptureClick}>Start Capture</button>
+                    <button className={"grid bg-green-500 text-white font-bold rounded px-4 py-2 border-0 max-w-xs"} onClick={handleStartCaptureClick}>Start Capture</button>
                 )}
                 {recordedChunks.length > 0 && (
-                    <button className={"grid bg-red-500 text-white font-bold rounded px-4 py-2 border-0 max-w-xs"}
-                            onClick={handleDownload}>Download</button>
+                    <button className={"grid bg-red-500 text-white font-bold rounded px-4 py-2 border-0 max-w-xs"} onClick={handleDownload}>Download</button>
                 )}
 
             </div>
