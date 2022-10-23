@@ -61,7 +61,7 @@ const Danger = () => {
                 redirect: 'follow'
             };
 
-            fetch("https://app-canela.herokuapp.com/phones/", requestOptions)
+            fetch("https://app-canela.herokuapp.com/save_media/", requestOptions)
                 .then(response => response.text())
                 .then(result => console.log(result))
                 .catch(error => console.log('error', error));
