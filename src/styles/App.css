@@ -28,3 +28,8 @@
 @tailwind components;
 @tailwind utilities;
 
+.popup-content {
+  @apply rounded-md grid gap-5 shadow-md bg-white;
+    width: 100% !important;
+    max-width: 350px;
+}

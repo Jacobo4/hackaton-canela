@@ -23,7 +23,7 @@ const Home = () => {
                     <a className="close" onClick={closeModal}>
                         &times;
                     </a>
-                    <div className={"grid gap-4 p-4"}>
+                    <div className={"grid gap-4 p-4 text-center"}>
                         <h3>Are tou sure?</h3>
                         <a className={"bg-red-500 text-white font-bold rounded px-4 py-2 border-0"} onClick={handleAlertBtn} href="sms://+12342337227?body=Hello%asd">YES!!!!</a>
                         {/*<button className={"bg-red-500 text-white font-bold rounded px-4 py-2 border-0"} onClick={handleAlertBtn}>YES!!!!</button>*/}
