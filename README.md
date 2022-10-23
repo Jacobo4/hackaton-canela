@@ -27,8 +27,8 @@ Por medio del mismo aplicativo el periodista se podrá informar acerca de los pe
 
 **Descripción de estadísticas por departamento**
 
-![Image text](https://github.com/Jacobo4/hackaton-canela/blob/frontend/public/mapa_estadistica.jpeg)
+![Image text](https://github.com/Jacobo4/hackaton-canela/blob/frontend/public/mapa_descripcion.jpg)
 
 **Acceso a demás estadisticas**
 
-![Image text](https://github.com/Jacobo4/hackaton-canela/blob/frontend/public/mas_estadisticas.jpeg)
+![Image text](https://github.com/Jacobo4/hackaton-canela/blob/frontend/public/mas_estadisticas.jpg)
