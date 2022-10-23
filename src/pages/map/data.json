@@ -12,14 +12,16 @@
                 "Amenaza O Intimidaci\u00f3n",
                 "Nan"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "0.312%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTo6kxs1V_XTL-f"
         }
     ],
     "Antioquia": [
         {
             "Latitud": 7.0000085,
             "Longitud": -75.5000086,
-            "Victima": "6404",
+            "Victima": "6403",
             "Fuente": [
                 " ",
                 " Justicia Y Paz, Vol,4. N.1 Pag. 14",
@@ -2136,14 +2138,16 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 10
+            "Rango": 10,
+            "Probabilidad": "99.984%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToGj-Wre1mUzow"
         }
     ],
     "Arauca": [
         {
             "Latitud": 6.7940425,
             "Longitud": -70.49616220398214,
-            "Victima": "656",
+            "Victima": "655",
             "Fuente": [
                 " ",
                 " Justicia Y Paz, Vol,4. N.1 Pag. 14",
@@ -2546,7 +2550,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 1
+            "Rango": 1,
+            "Probabilidad": "10.228%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTo647PGv2LVxL0"
         }
     ],
     "Archipielago De San Andres Providencia Y Santa Catalina": [
@@ -2560,7 +2566,9 @@
             "Tipo_agresion": [
                 "Nan"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "0.016%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTojDpU1kHTVxL3"
         }
     ],
     "Atlantico": [
@@ -2781,7 +2789,9 @@
                 "Nan",
                 "Tortura"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "4.606%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToMElpBJD9VxL5"
         }
     ],
     "Bogota": [
@@ -2799,7 +2809,9 @@
                 "Nan",
                 "Tortura"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "1.468%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTo0PW5lnoVxL6"
         }
     ],
     "Bogota, D. C.": [
@@ -2992,14 +3004,16 @@
                 "r",
                 "o"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "2.889%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToWelHHAKMVxL8"
         }
     ],
     "Bolivar": [
         {
             "Latitud": 33.7702263,
             "Longitud": -90.8519798,
-            "Victima": "1825",
+            "Victima": "1823",
             "Fuente": [
                 " ",
                 " Justicia Y Paz, Vol,4. N.1 Pag. 16",
@@ -3731,7 +3745,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 3
+            "Rango": 3,
+            "Probabilidad": "28.467%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTohRh1RHVOVxL9"
         }
     ],
     "Boyaca": [
@@ -3872,7 +3888,9 @@
                 "Nan",
                 "Tortura"
             ],
-            "Rango": 1
+            "Rango": 1,
+            "Probabilidad": "5.45%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToC--FWhkFVxUA"
         }
     ],
     "Caldas": [
@@ -4255,7 +4273,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 1
+            "Rango": 1,
+            "Probabilidad": "9.931%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToNw4k6xRuVxUD"
         }
     ],
     "Caqueta": [
@@ -4461,7 +4481,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 1
+            "Rango": 1,
+            "Probabilidad": "14.054%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToDCoa0FgBVxUE"
         }
     ],
     "Casanare": [
@@ -4566,7 +4588,9 @@
                 "Nan",
                 "Tortura"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "4.685%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToGQQn2O0KVxUG"
         }
     ],
     "Cauca": [
@@ -5119,14 +5143,16 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 2
+            "Rango": 2,
+            "Probabilidad": "21.487%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTojtpooRbqVxUI"
         }
     ],
     "Cesar": [
         {
             "Latitud": 9.3333415,
             "Longitud": -73.5000086,
-            "Victima": "1415",
+            "Victima": "1413",
             "Fuente": [
                 " ",
                 " Justicia Y Paz, Vol,5. N.1 Pag. 16",
@@ -5836,14 +5862,16 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 2
+            "Rango": 2,
+            "Probabilidad": "22.064%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToTl_pNWU1VxUK"
         }
     ],
     "Choco": [
         {
             "Latitud": 6.0000085,
             "Longitud": -77.0000086,
-            "Victima": "873",
+            "Victima": "872",
             "Fuente": [
                 " ",
                 " Justicia Y Paz, Vol,6. N.4 Pag. 51",
@@ -6051,7 +6079,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 1
+            "Rango": 1,
+            "Probabilidad": "13.616%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToOgNbHA1jVxfX"
         }
     ],
     "Cordoba": [
@@ -6555,7 +6585,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 1
+            "Rango": 1,
+            "Probabilidad": "14.132%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTopk2lqE1lVxfZ"
         }
     ],
     "Cundinamarca": [
@@ -6726,7 +6758,9 @@
                 "Nan",
                 "Tortura"
             ],
-            "Rango": 1
+            "Rango": 1,
+            "Probabilidad": "7.854%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTogqc8a4ZiVxfa"
         }
     ],
     "C\u00e9sar": [
@@ -6754,7 +6788,9 @@
                 "r",
                 "o"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "0.016%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTouo6hqDFIVxfc"
         }
     ],
     "Guainia": [
@@ -6769,7 +6805,9 @@
             "Tipo_agresion": [
                 "Nan"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "0.172%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToP39dehZxVxfd"
         }
     ],
     "Guaviare": [
@@ -6856,7 +6894,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "4.06%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTojS5DXQGBVxfe"
         }
     ],
     "Huila": [
@@ -7222,7 +7262,9 @@
                 "Nan",
                 "Tortura"
             ],
-            "Rango": 1
+            "Rango": 1,
+            "Probabilidad": "10.4%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToOAAfvS7UVw12"
         }
     ],
     "La Guajira": [
@@ -7355,7 +7397,9 @@
                 "Nan",
                 "Tortura"
             ],
-            "Rango": 1
+            "Rango": 1,
+            "Probabilidad": "8.76%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTo8jLpJHoNVw16"
         }
     ],
     "Magdalena": [
@@ -7903,7 +7947,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 4
+            "Rango": 4,
+            "Probabilidad": "38.46%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToGus9oi3LVw17"
         }
     ],
     "Meta": [
@@ -8344,7 +8390,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 2
+            "Rango": 2,
+            "Probabilidad": "17.989%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTozvv--3vTVw19"
         }
     ],
     "Nari\u00f1o": [
@@ -8544,7 +8592,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 2
+            "Rango": 2,
+            "Probabilidad": "21.393%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToMCG0D8WIVw1_"
         }
     ],
     "Norte De Santander": [
@@ -9463,7 +9513,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 3
+            "Rango": 3,
+            "Probabilidad": "30.824%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTo0By7KvzsVw2A"
         }
     ],
     "Putumayo": [
@@ -9599,7 +9651,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 2
+            "Rango": 2,
+            "Probabilidad": "15.334%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToQMibGCBnVFeX"
         }
     ],
     "Quindio": [
@@ -9656,7 +9710,9 @@
                 "Nan",
                 "Tortura"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "1.64%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToTkt5ILwyVvRU"
         }
     ],
     "Risaralda": [
@@ -9935,7 +9991,9 @@
                 "Nan",
                 "Tortura"
             ],
-            "Rango": 1
+            "Rango": 1,
+            "Probabilidad": "6.793%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTo81WinV6lVvRZ"
         }
     ],
     "San Andres": [
@@ -9964,7 +10022,9 @@
                 "r",
                 "o"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "0.062%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTo8zDpFABUVvRe"
         }
     ],
     "Santander": [
@@ -11105,14 +11165,16 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 3
+            "Rango": 3,
+            "Probabilidad": "30.153%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTomg5VwJ1TgYXj"
         }
     ],
     "Sucre": [
         {
             "Latitud": -19.0477251,
             "Longitud": -65.2594306,
-            "Victima": "708",
+            "Victima": "707",
             "Fuente": [
                 " Justicia Y Paz, Vol,6. N.1 Pag. 103",
                 " Justicia Y Paz, Vol,6. N.1 Pag. 64",
@@ -11444,7 +11506,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 1
+            "Rango": 1,
+            "Probabilidad": "11.04%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollToq5WGTGaAgYXn"
         }
     ],
     "Tolima": [
@@ -11927,7 +11991,9 @@
                 "Pillaje",
                 "Tortura"
             ],
-            "Rango": 2
+            "Rango": 2,
+            "Probabilidad": "16.146%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTo8FPiqwR4gZIF"
         }
     ],
     "Valle Del Cauca": [
@@ -12571,7 +12637,9 @@
                 "Nan",
                 "Tortura"
             ],
-            "Rango": 2
+            "Rango": 2,
+            "Probabilidad": "23.298%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTo8FPiqwR4gZIF"
         }
     ],
     "Vaupes": [
@@ -12589,7 +12657,9 @@
             "Tipo_agresion": [
                 "Nan"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "0.406%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTo8FPiqwR4gZIF"
         }
     ],
     "Vichada": [
@@ -12609,7 +12679,9 @@
                 "Amenaza O Intimidaci\u00f3n",
                 "Nan"
             ],
-            "Rango": 0
+            "Rango": 0,
+            "Probabilidad": "1.124%",
+            "Link": "https://colab.research.google.com/drive/1FL32nTDi76p_aRULSAkQrgwfN-IMpqdE#scrollTo8FPiqwR4gZIF"
         }
     ]
 }

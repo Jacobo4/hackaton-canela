@@ -6,22 +6,18 @@ export default defineConfig({
     plugins: [
         react(),
         VitePWA({
-            includeAssets: ['vite.svg', 'favicon.ico', 'robots.txt', 'apple-touch-icon.png'],
+            includeAssets: ['favicon.svg', 'favicon.ico', 'robots.txt', 'apple-touch-icon.png'],
             manifest: {
                 name: 'Hackaton-canela',
                 short_name: 'Canela',
                 description: '',
                 theme_color: '#3b82f6',
-                icons: [{
-                    src: 'canelaLogo.png',
-                    sizes: '145x145',
-                    type: 'image/png',
-                },
+                icons: [
                     {
-                       src: 'canelaLogo.png',
-                    sizes: '145x145',
+                        src: 'canelaLogo.png',
+                        sizes: '145x145',
                         type: 'image/png',
-                    }
+                    },
                 ]
             },
             // workbox: {

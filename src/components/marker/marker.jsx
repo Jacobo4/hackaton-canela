@@ -29,10 +29,10 @@ const Marker = ({props}) => {
                 position="top center"
                 closeOnDocumentClick
             >
-                <div className={"grid gap-2"}>
+                <div className={"grid gap-2 p-4"}>
                     <h2>{props.name}</h2>
-                    <h4>Cantidad de victimas: {props.Victima}</h4>
-
+                    <span>Probabilidad de violencia <span className={"text-red-400 text-bold"}>{props.Probabilidad}</span></span>
+                    <h4>Cantidad de victimas: <span className={"text-red-400 text-bold"}>{props.Victima}</span></h4>
                     <div>
                         <h4>Tipo:</h4>
                         {/*<ul>Tipo: {props.Tipo_agresion}</ul>*/}
@@ -44,6 +44,13 @@ const Marker = ({props}) => {
                             {props.Fuente.map((item, i) => (<li key={i}>{item}</li>))}
                         </ul>
                     </div>
+
+                    <div>
+                        <button className="bg-green-500 rounded p-2 text-white">
+                            <a href={props.Link} value={"_blank"}>Estadísticas</a>
+                        </button>
+                    </div>
+
 
 
                 </div>
